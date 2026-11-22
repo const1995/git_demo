@@ -6,6 +6,7 @@ class my_class {
     }
 }
 
+
 class feature_01{
     feature_01(){
         System.out.println("feature_01");
